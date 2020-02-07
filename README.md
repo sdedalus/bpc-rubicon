@@ -5,7 +5,7 @@ Copyright (c) Improving. Licensed under the MIT License. See LICENSE.txt in the 
 ![Rubicon](bpc-rubicon-logo.png)
 - - -
 
-# Software quality standards curation and evaluation system
+# Software quality standards evaluation system
 
 **Rubicon** is a system for authoring and maintaining software quality standards, and evaluating software projects against them.
 
