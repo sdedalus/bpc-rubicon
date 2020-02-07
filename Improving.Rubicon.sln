@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cicd", "cicd", "{116A6411-302D-4912-820C-51CFFA2D832B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{852733FE-52C9-4581-81AE-678B3AF4584C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BC1791D1-2762-4BEE-9F38-5A9D04A2E89D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{86368E2D-235E-4A05-A3E7-647F6D1373E4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		AUTHORS.md = AUTHORS.md
+		bpc-rubicon-logo.png = bpc-rubicon-logo.png
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		en-US_User.dic = en-US_User.dic
+		en_US.aff = en_US.aff
+		en_US.dic = en_US.dic
+		improving-logo.png = improving-logo.png
+		Improving.Rubicon.sln.vsspell = Improving.Rubicon.sln.vsspell
+		LICENSE.txt = LICENSE.txt
+		PULL_REQUEST_TEMPLATE.md = PULL_REQUEST_TEMPLATE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E41878ED-55D7-4651-A1F6-65B353BADDCB}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97134C78-79DA-4656-ABBC-719DA3573BEE}
+	EndGlobalSection
+EndGlobal
