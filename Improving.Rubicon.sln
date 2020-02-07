@@ -29,9 +29,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{86368E2D-2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E41878ED-55D7-4651-A1F6-65B353BADDCB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "requirements", "requirements", "{73D1FB72-D743-4EFC-9489-CEFB5A15B283}"
+	ProjectSection(SolutionItems) = preProject
+		doc\requirements\.TEMPLATE.md = doc\requirements\.TEMPLATE.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73D1FB72-D743-4EFC-9489-CEFB5A15B283} = {852733FE-52C9-4581-81AE-678B3AF4584C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97134C78-79DA-4656-ABBC-719DA3573BEE}

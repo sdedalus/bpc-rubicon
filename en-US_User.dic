@@ -89,6 +89,8 @@ entropic
 Enum
 Enums
 env
+Evaluator
+evaluators
 eventing
 Exe
 extensibility
@@ -108,6 +110,7 @@ href
 html
 iframe
 img
+implementers
 initializer
 initializers
 integrations
@@ -176,6 +179,7 @@ rng
 Roadmap
 runas
 runtime
+Scalability
 scalable
 sdk
 seealso
