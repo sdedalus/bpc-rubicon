@@ -7,7 +7,7 @@ Copyright (c) Improving. Licensed under the MIT License. See LICENSE.txt in the 
 
 # Software quality standards evaluation system
 
-**Rubicon** is a system for authoring and maintaining software quality standards, and evaluating software projects against them.
+**Rubicon** is a system for authoring and maintaining software quality standards, and evaluating projects against them.
 
 ## Features
 
