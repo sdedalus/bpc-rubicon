@@ -11,7 +11,7 @@ Copyright (c) Improving. Licensed under the MIT License. See LICENSE.txt in the 
 
 ## Features
 
->> TODO: Describe the software's features.
+> TODO: Describe the software's features.
 
 ## License
 
@@ -25,6 +25,6 @@ Copyright (c) Improving. Licensed under the MIT License. See LICENSE.txt in the 
 
 <br />
 
-[![Improving](https://improving.com/images/improving_logo.png)](https://www.improving.com)
+[![Improving](improving-logo.png)](https://www.improving.com)
 
 ###### Copyright (c) Improving. All rights reserved.
