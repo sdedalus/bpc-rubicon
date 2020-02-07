@@ -19,11 +19,7 @@ Copyright (c) Improving. Licensed under the MIT License. See LICENSE.txt in the 
 
 **Rubicon** is [MIT-licensed](https://en.wikipedia.org/wiki/MIT_License). Review the [license terms](LICENSE.txt) for more information.
 
-<br />
-
 - - -
-
-<br />
 
 [![Improving](improving-logo.png)](https://www.improving.com)
 
