@@ -11,8 +11,10 @@ This document lists the **Rubicon** maintainers and contributors. For more infor
 
 ## Maintainers
 
-* [Adam Stone](https://github.com/adamjstone) | Developer, Best Practices Council Member
-* [your name here] :wink:
+* [Adam Stone](https://github.com/adamjstone) | Software Developer, Best Practices Council Member
+* [Billy Suttle](https://www.linkedin.com/in/williamsuttle) | Quality Assurance Engineer, Best Practices Council Member
+* [David Lewis](https://github.com/sdedalus) | Software Developer, Best Practices Council Member
+* [Will Hausman](https://github.com/willhausman) | Software Developer, Best Practices Council Member
 
 ## Contributors
 
